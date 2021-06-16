@@ -14,6 +14,10 @@ https://www.shacknews.com/cortex/article/437/the-silvyr-tower-a-dampd-5e-one-sho
 
 https://www.kassoon.com/dnd/one-shots/
 
+La mayoria de estas paginas tienen un enfoque a publicar el tipo de yo quiero poner en linea, pero están enfocado en multiples usuarios, con un formato estandar que no necesariamente muestra de la mejor manera los contenidos o lo atractivo del contenido. Además, por la limitaciónes, se hace dificil comunicar de manera visual los contenidos de los documentos.
+
+Algunas de estas paginas tienen una interfas que si bien no es perfecta, puede ser un punto de inicio. En cunato a lo estetico, , con colores que lo hacen ver muy viejo, con un contraste muy alto, que se alejan bastante de mi visión. En este sentido, https://winghornpress.com/adventures/wolves-of-welton/ es la que más se acerca a lo que busco hacer.
+
 ## REFERENTES
 
 ![alt text](https://github.com/LeOcto/MOCHA/blob/main/mood-01.png)
