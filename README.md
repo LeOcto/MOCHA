@@ -16,4 +16,4 @@ https://www.kassoon.com/dnd/one-shots/
 
 ## REFERENTES
 
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+![alt text](https://github.com/LeOcto/MOCHA/blob/main/mood-01.png)
