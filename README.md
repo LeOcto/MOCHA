@@ -13,3 +13,7 @@ https://winghornpress.com/adventures/wolves-of-welton/
 https://www.shacknews.com/cortex/article/437/the-silvyr-tower-a-dampd-5e-one-shot-written-specifically-for-new-dms
 
 https://www.kassoon.com/dnd/one-shots/
+
+## REFERENTES
+
+![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
