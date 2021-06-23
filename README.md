@@ -102,7 +102,7 @@ Algunas de estas paginas tienen una interfas que si bien no es perfecta, puede s
 
 ## REFERENTES
 
-![alt text](https://github.com/LeOcto/MOCHA/blob/main/a/mood-01.png)
+![alt text](https://github.com/LeOcto/MOCHA/blob/main/a/moodboard.png)
 
 La idea de estos referentes es reflejar tanto el ambiente que se quiere generar en la pagina, como la linea grafica que se quiere seguir.
 
