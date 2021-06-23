@@ -72,21 +72,29 @@ https://www.dmsguild.com/browse.php?filters=0_0_45393_0_0_45462_0_0&pfrom=0&pto=
 
 ![alt text](https://github.com/LeOcto/MOCHA/blob/main/ante-04.png)
 
+https://www.kassoon.com/dnd/one-shots/
+
+![alt text](https://github.com/LeOcto/MOCHA/blob/main/ante-06.png)
+
+![alt text](https://github.com/LeOcto/MOCHA/blob/main/ante-07.png)
+
+Estas paginas estan pensadas como un tipo de foro, donde todos pueden subir contenido, y el resto comenta y le anota un valor al trabajo de esta gente. Debido a esto, la pagina tiene demaciadas barras de opciones, y por la cantidad de contenido se hace más dificil encontrar un elemento en particular. El enfoque claramente esta en mostrar tanto lo más nuevo como lo menojr valorado, para mantener el interes y dar rapidamente al usuario una cantidad de material que seguramente funcione para su campaña de calabosos y dragones
+
 https://winghornpress.com/adventures/wolves-of-welton/
 
 ![alt text](https://github.com/LeOcto/MOCHA/blob/main/ante-01.png)
 
 ![alt text](https://github.com/LeOcto/MOCHA/blob/main/ante-02.png)
 
+Pagina que recopila todas las aventuras y contenidos creados por este grupo. Al girar en torno a un gupo más que en una comunida que sube contenido, la pagina es mucho más simple y permite explorarla de manera más comoda; sin mencionar la mayor facilidad de diagramar entorno a una menor cantidad de contenido, comunicando de mejor manera lo más nuevo y lo más relevante.
+
 https://www.shacknews.com/cortex/article/437/the-silvyr-tower-a-dampd-5e-one-shot-written-specifically-for-new-dms
 
 ![alt text](https://github.com/LeOcto/MOCHA/blob/main/ante-05.png)
 
-https://www.kassoon.com/dnd/one-shots/
+Esta pagina es más bien un tipo de revista online, pero en este caso en particular, se habla de el tema que pienso tocar. Es interesante ver como logran adaptar el formato de un par de imagenes y una pared de texto para poder comunicar y dar acceso a todo lo que el autor quería comunicar, con el link para descargar el material y dar consejos de como usar campañas pequeñas como estas para jugadores novatos.
 
-![alt text](https://github.com/LeOcto/MOCHA/blob/main/ante-06.png)
 
-![alt text](https://github.com/LeOcto/MOCHA/blob/main/ante-07.png)
 
 La mayoria de estas paginas tienen un enfoque a publicar el tipo de yo quiero poner en linea, pero están enfocado en multiples usuarios, con un formato estandar que no necesariamente muestra de la mejor manera los contenidos o lo atractivo del contenido. Además, por la limitaciónes, se hace dificil comunicar de manera visual los contenidos de los documentos.
 
